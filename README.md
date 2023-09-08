@@ -26,6 +26,11 @@ Our Sentiment Analysis application provides the following features:
 <img src="https://github.com/fintechwizard/sentiment_analysis/assets/107593481/9ea67295-bd56-47ab-ab85-77cd9a98b9f7">
 </p>
 
+<b>- Code Example</b>
+<p align="center">
+<img src="https://github.com/fintechwizard/sentiment_analysis/assets/107593481/5a42a362-7bfa-476c-b36c-be93829519cd">
+</p>
+
 <h3>Customization Tailored to Your Needs</h3>
 
 This entire application was developed by <b>eVOLV</b> using arch linux, anaconda and python. It's highly customizable to meet your specific requirements. Whether you want to use it as a standalone web application or integrate it into your existing systems, we're here to adapt it to your needs.
