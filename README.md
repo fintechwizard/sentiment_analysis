@@ -43,4 +43,4 @@ Feel free to reach out to us at [info@evolv.website](mailto:info@evolv.website),
 
 Thank you for choosing eVOLV. We look forward to partnering with you on your journey to a more efficient and eVOLVED company.
 
-[Visit our website](https://www.evolv.website) | [GitHub Repository](https://github.com/fintechwizard/sentiment_analysis)
+[Visit our website](https://www.evolv.website) | [GitHub Repository](https://github.com/fintechwizard/scraper)
